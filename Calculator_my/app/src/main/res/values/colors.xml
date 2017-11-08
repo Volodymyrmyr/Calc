@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorRes">#FF0000</color>
+    <color name="colorTable">#FFFFFF</color>
+    <color name="colorOperButton">#F0FFFF</color>
+    <color name="colorMainBackground">#FDF5E6</color>
+    <color name="colorButtonIs">#FF0000</color>
+    <color name="colorButtonExit">#F0FFFF</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorYellow">#FFFF00</color>
+    <color name="colorsoRed">#FFCCCC</color>
+    <color name="colorGreen">#32CD32</color>
+    <color name="colorBlue">#1E90FF</color>
+    <color name="colorBlack">#000000</color>
+    <color name="color_screen_res">#FFFF99</color>
+    <color name="color_background">#FFFFCC</color>
+</resources>
